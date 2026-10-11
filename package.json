@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/itsmeabhiabhi01/Happy-craft.git"
   },
-  "homepage": "https://appleweiping.github.io/blockverse/",
+  "homepage": "https://itsmeabhiabhi01.github.io/Happy-craft/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
